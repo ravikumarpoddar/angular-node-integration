@@ -1,4 +1,6 @@
-# NodeAng
+# steps to be followed
+1. ng build
+2. nodemon server.js
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
 
